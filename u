@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Background RP – Syndra WL</title>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Montserrat', sans-serif;
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+      color: #f1f1f1;
+    }
+    .container {
+      max-width: 900px;
+      margin: 60px auto;
+      background: rgba(0, 0, 0, 0.55);
+      border-radius: 14px;
+      padding: 40px;
+      box-shadow: 0 0 30px rgba(0,0,0,0.6);
+    }
+    h1 {
+      text-align: center;
+      font-size: 2.6em;
+      margin-bottom: 10px;
+      letter-spacing: 2px;
+    }
+    h2 {
+      border-left: 4px solid #00bcd4;
+      padding-left: 12px;
+      margin-top: 40px;
+      color: #00e5ff;
+    }
+    p {
+      line-height: 1.7;
+      margin-top: 15px;
+      font-weight: 300;
+    }
+    .tag {
+      display: inline-block;
+      background: #00bcd4;
+      color: #000;
+      padding: 6px 12px;
+      border-radius: 20px;
+      font-size: 0.8em;
+      margin: 4px 4px 0 0;
+      font-weight: 600;
+    }
+    .footer {
+      text-align: center;
+      margin-top: 50px;
+      font-size: 0.8em;
+      opacity: 0.6;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Dossier Confidentiel</h1>
+    <p style="text-align:center; opacity:0.8">Background RP – Serveur Syndra WL</p>
+
+    <h2>Identité</h2>
+    <p><strong>Nom :</strong> [Nouvelle identité]</p>
+    <p><strong>Âge :</strong> [À définir]</p>
+    <p><strong>Origine :</strong> Américaine</p>
+    <p><strong>Profession déclarée :</strong> [Sécurité / Civil / Autre]</p>
+    <p><strong>Statut officiel :</strong> Décédé en opération (KIA)</p>
+
+    <h2>Passé Militaire</h2>
+    <p>
+      Ancien membre d'une unité spéciale de la Navy, engagé dans des missions à haut risque nécessitant discrétion,
+      discipline et sang-froid. Opérateur expérimenté mais jamais médiatisé, spécialisé dans le travail d'équipe
+      et les opérations sous pression.
+    </p>
+
+    <h2>L'Opération Fantôme</h2>
+    <p>
+      En 2016, une mission classifiée tourne au désastre. Extraction annulée, frappe ordonnée pour effacer toute trace.
+      L'unité est déclarée morte. Gravement blessé, je survis mais suis officiellement rayé de toute existence.
+    </p>
+
+    <h2>Disparition</h2>
+    <p>
+      Choix imposé : rester sous contrôle gouvernemental ou disparaître. Une nouvelle identité m'est attribuée.
+      Je quitte les États-Unis et finis par m'installer à Los Santos, là où les passés troubles se fondent dans la foule.
+    </p>
+
+    <h2>Présent à Los Santos</h2>
+    <p>
+      Vie discrète, pas de démonstration de compétences. Je cherche à me reconstruire légalement, même si certains
+      réflexes restent gravés. Chaque alliance est un risque, chaque décision peut réveiller le passé.
+    </p>
+
+    <h2>Traits RP</h2>
+    <div>
+      <span class="tag">Calme sous pression</span>
+      <span class="tag">Méfiant</span>
+      <span class="tag">Loyal</span>
+      <span class="tag">Non-invincible</span>
+      <span class="tag">Traumatismes</span>
+    </div>
+
+    <div class="footer">
+      © Background RP – Syndra WL | Usage RP uniquement
+    </div>
+  </div>
+</body>
+</html>
